@@ -1,4 +1,4 @@
-f = open("geoprofiles_result.txt", 'r')
+f = open("gene_expression.txt", 'r')
 lines = f.readlines()
 sum = 0
 count = 0
