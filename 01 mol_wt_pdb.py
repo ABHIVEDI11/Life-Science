@@ -8,13 +8,13 @@ for i in range (0,len(pdbfile)):
 	   molwt = molwt + 14
 	elif(line[13:14] == 'O'):
 	     molwt = molwt + 16
- elif(line[13:14] == 'C'):
-	     molwt = molwt + 12
- elif(line[13:14] == 'S'):
+	elif(line[13:14] == 'C'):
+	    molwt = molwt + 12
+	elif(line[13:14] == 'S'):
 	     molwt == molwt + 32
 	elif(line[13:14] == 'H'):
 	     molwt = molwt + 1
 	else:
-	     next
+	   next
 
 print(f"The molecular weight of this protein is :",molwt)
