@@ -1,7 +1,0 @@
-0.1234
-1. HB2 - Leaf morphogenesis control by JAW microRNA
-Annotation: HB2, non-symbiotic hemoglobin 2
-Organism: Arabidopsis thaliana
-Reporter: GPL198, 258920_at (ID_REF), GDS418, 820216 (Gene ID), At3g10520 (ORF)
-DataSet type: Expression profiling by array, count, 4 samples
-ID: 2826020
